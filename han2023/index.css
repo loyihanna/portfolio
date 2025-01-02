@@ -536,7 +536,7 @@ footer {
 
     .section3 {
         margin-bottom: 0px;
-        height: 760px;
+        height: 1000px;
     }
 
     .sec3 {
@@ -655,6 +655,7 @@ footer {
     .section4 {
         display: block;
         overflow: hidden;
+	     height: 1000px;
     }
 
     .time_item {
